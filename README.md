@@ -1,4 +1,2 @@
 "# Repojenkin" 
-RHFMHFMJF,JG,J
-RDFGTHJKDWJSHJ
-dfcgvbhn
+RHFMHFMJF,JG,dfgh
